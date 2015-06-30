@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+C:\Users\SAMSUNG\workspace1\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1045648345.index
+2397610337.index
+2988810999.index
+4152510120.index
+3978224437.index

@@ -1,0 +1,5 @@
+package com.my.resources;
+
+public class Hello {
+
+}
