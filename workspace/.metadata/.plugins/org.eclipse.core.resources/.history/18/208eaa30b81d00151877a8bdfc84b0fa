@@ -1,0 +1,31 @@
+package com.my.database;
+import java.awt.List;
+import java.sql.*;
+import java.util.ArrayList;
+
+import com.my.model.*;
+public class Database {
+	public List<Msg> getall() throws SQLException {
+		String DB_URL = "jdbc:mysql://localhost/app";
+		Connection con =DriverManager.getConnection(DB_URL,"root","");
+		System.out.println("Creating statement...");
+	     Statement stmt = con.createStatement();
+	     String sql;
+	      sql = "SELECT * FROM chart";
+	      ResultSet rs = stmt.executeQuery(sql);
+	      while(rs.next()){
+	    	  int id  = rs.getInt("id");
+	    	  String name=rs.getString("name");
+	    	  int in  = rs.getInt("india");
+	    	  int ger  = rs.getInt("germany");
+	    	  int fr  = rs.getInt("france");
+	          //Retrieve by column name
+	    	  Msg m1 =new Msg(id,name,in,ger,fr);
+	         List<Msg> List =new ArrayList<>();
+	          //System.out.print("ID:" + id +"\n");
+	      }
+	      rs.close();
+	      stmt.close();
+	      con.close();
+	}
+}

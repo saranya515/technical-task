@@ -1,0 +1,21 @@
+package com.my.database;
+import java.sql.*;
+public class Database {
+	public static void main(String[] args) throws SQLException {
+		String DB_URL = "jdbc:mysql://localhost/app";
+		Connection con =DriverManager.getConnection(DB_URL,"root","");
+		System.out.println("Creating statement...");
+	     Statement stmt = con.createStatement();
+	     String sql;
+	      sql = "SELECT * FROM chart";
+	      ResultSet rs = stmt.executeQuery(sql);
+	      while(rs.next()){
+	          //Retrieve by column name
+	          int id  = rs.getInt("id");
+	          System.out.print("ID: \n" + id);
+	      }
+	      rs.close();
+	      stmt.close();
+	      con.close();
+	}
+}
