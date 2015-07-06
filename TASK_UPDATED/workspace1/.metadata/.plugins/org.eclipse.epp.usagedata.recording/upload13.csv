@@ -1,0 +1,276 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.jboss.tools.common.model,3.2.1.v20111025-0439-H174-Final,"org.jboss.tools.common.model",1435851784754
+started,bundle,org.jboss.tools.esb.project.core,1.4.1.v20111111-0222-H200-Final,"org.jboss.tools.esb.project.core",1435851784754
+started,bundle,org.jboss.tools.jmx.core,1.2.0.v20111025-2055-H161-Final,"org.jboss.tools.jmx.core",1435851784764
+started,bundle,org.jboss.tools.runtime,1.2.0.v20111025-0316-H469-Final,"org.jboss.tools.runtime",1435851784764
+started,bundle,org.jboss.tools.runtime.ui,1.0.0.v20111025-0316-H469-Final,"org.jboss.tools.runtime.ui",1435851784764
+started,bundle,org.jboss.tools.seam.core,3.2.1.v20111027-1359-H303-Final,"org.jboss.tools.seam.core",1435851784764
+started,bundle,org.jboss.tools.seam.ui,3.2.1.v20111027-1359-H303-Final,"org.jboss.tools.seam.ui",1435851784764
+started,bundle,org.jboss.tools.usage,1.0.1.v20111025-0334-H157-Final,"org.jboss.tools.usage",1435851784764
+os,sysinfo,,,"win32",1435851784764
+arch,sysinfo,,,"x86_64",1435851784764
+ws,sysinfo,,,"win32",1435851784764
+locale,sysinfo,,,"en_US",1435851784764
+processors,sysinfo,,,"4",1435851784764
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1435851784764
+java.runtime.version,sysinfo,,,"1.8.0_25-b18",1435851784764
+java.specification.name,sysinfo,,,"Java Platform API Specification",1435851784764
+java.specification.vendor,sysinfo,,,"Oracle Corporation",1435851784764
+java.specification.version,sysinfo,,,"1.8",1435851784764
+java.vendor,sysinfo,,,"Oracle Corporation",1435851784764
+java.version,sysinfo,,,"1.8.0_25",1435851784764
+java.vm.info,sysinfo,,,"mixed mode",1435851784764
+java.vm.name,sysinfo,,,"Java HotSpot(TM) 64-Bit Server VM",1435851784764
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1435851784764
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1435851784764
+java.vm.specification.version,sysinfo,,,"1.8",1435851784764
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1435851784764
+java.vm.version,sysinfo,,,"25.25-b02",1435851784764
+started,bundle,org.jboss.tools.jst.web.ui,3.2.1.v20111025-0510-H215-Final,"org.jboss.tools.jst.web.ui",1435851784774
+error,log,,,"C:\\Users\\SAMSUNG\\workspace1\\FRWS\\WebContent\\WEB-INF\\lib\\jersey-container-servlet.jar",1435851785884
+error,log,,,"C:\\Users\\SAMSUNG\\workspace1\\FRWS\\WebContent\\WEB-INF\\lib\\jersey-client.jar",1435851785884
+started,bundle,org.jboss.tools.portlet.core,1.2.0.v20111025-0629-H191-Final,"org.jboss.tools.portlet.core",1435851786206
+started,bundle,org.jboss.tools.common.verification,3.2.0.v20111025-0439-H174-Final,"org.jboss.tools.common.verification",1435851786296
+started,bundle,org.eclipse.wst.wsi.ui,1.0.501.v201004201506,"org.eclipse.wst.wsi.ui",1435851786316
+started,bundle,org.eclipse.wst.dtd.core,1.1.401.v201101122255,"org.eclipse.wst.dtd.core",1435851786316
+started,bundle,org.eclipse.wst.sse.ui,1.2.3.v201102102045,"org.eclipse.wst.sse.ui",1435851786316
+started,bundle,org.eclipse.wst.html.ui,1.0.504.v201101122108,"org.eclipse.wst.html.ui",1435851786316
+started,bundle,org.jboss.tools.jst.web.kb,3.2.1.v20111025-0510-H215-Final,"org.jboss.tools.jst.web.kb",1435851786316
+started,bundle,org.eclipse.wst.sse.core,1.1.504.v201102160550,"org.eclipse.wst.sse.core",1435851786326
+started,bundle,org.eclipse.jst.jsf.common,1.2.2.v201101211220,"org.eclipse.jst.jsf.common",1435851786356
+started,bundle,org.eclipse.jst.jsf.core,1.3.3.v201102021253,"org.eclipse.jst.jsf.core",1435851786356
+started,bundle,org.jboss.tools.jsf,3.2.1.v20111027-1258-H202-Final,"org.jboss.tools.jsf",1435851786356
+started,bundle,org.eclipse.jst.jsp.core,1.2.304.v201102160550,"org.eclipse.jst.jsp.core",1435851786460
+started,bundle,org.jboss.tools.smooks.ui,1.2.0.v20111025-0650-H200-Final,"org.jboss.tools.smooks.ui",1435851786486
+started,bundle,org.jboss.tools.smooks.core,1.2.0.v20111025-0650-H200-Final,"org.jboss.tools.smooks.core",1435851786518
+started,bundle,org.jboss.ide.eclipse.archives.core,3.2.1.v20111025-0345-H201-Final,"org.jboss.ide.eclipse.archives.core",1435851786584
+started,bundle,org.jboss.ide.eclipse.archives.webtools,2.2.0.v20111110-1751-H262-Final,"org.jboss.ide.eclipse.archives.webtools",1435851786599
+started,bundle,org.jboss.ide.eclipse.as.wtp.core,2.2.0.v20111110-1751-H262-Final,"org.jboss.ide.eclipse.as.wtp.core",1435851786599
+started,bundle,org.eclipse.wst.wsdl.validation,1.1.501.v201004201506,"org.eclipse.wst.wsdl.validation",1435851786742
+started,bundle,org.eclipse.wst.xsd.core,1.1.503.v201011121919,"org.eclipse.wst.xsd.core",1435851786742
+started,bundle,org.eclipse.wst.xsl.core,1.1.0.v201004290328,"org.eclipse.wst.xsl.core",1435851786752
+started,bundle,org.jboss.tools.common.projecttemplates,3.2.1.v20111025-0439-H174-Final,"org.jboss.tools.common.projecttemplates",1435851795082
+started,bundle,org.jboss.tools.jst.web,3.2.1.v20111025-0510-H215-Final,"org.jboss.tools.jst.web",1435851795082
+started,bundle,org.jboss.tools.jsf.ui,3.2.1.v20111027-1258-H202-Final,"org.jboss.tools.jsf.ui",1435851795092
+started,bundle,org.jboss.tools.common.verification.ui,3.1.0.v20111025-0439-H174-Final,"org.jboss.tools.common.verification.ui",1435851795092
+started,bundle,org.eclipse.jst.servlet.ui,1.1.404.v201101270100,"org.eclipse.jst.servlet.ui",1435851795122
+started,bundle,org.jboss.tools.esb.project.ui,1.4.1.v20111111-0222-H200-Final,"org.jboss.tools.esb.project.ui",1435851795202
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1435851862012
+started,bundle,org.jboss.ide.eclipse.archives.ui,3.2.0.v20111025-0345-H201-Final,"org.jboss.ide.eclipse.archives.ui",1435851862032
+started,bundle,org.eclipse.jst.j2ee.ejb,1.1.402.v201102071010,"org.eclipse.jst.j2ee.ejb",1435851862102
+started,bundle,org.eclipse.jst.j2ee.jca,1.1.400.v201005270700,"org.eclipse.jst.j2ee.jca",1435851862102
+started,bundle,org.eclipse.jst.jee.ejb,1.0.301.v201007070821,"org.eclipse.jst.jee.ejb",1435851862102
+started,bundle,org.eclipse.jst.jee.web,1.0.301.v201007070907,"org.eclipse.jst.jee.web",1435851862102
+started,bundle,org.eclipse.xsd,2.6.0.v20100914-1218,"org.eclipse.xsd",1435851862152
+started,bundle,org.eclipse.jst.ws.jaxws.dom.integration,1.0.0.v201004171919,"org.eclipse.jst.ws.jaxws.dom.integration",1435851862252
+started,bundle,org.eclipse.jst.ws.jaxws.dom.ui,1.0.0.v201004171919,"org.eclipse.jst.ws.jaxws.dom.ui",1435851862262
+started,bundle,org.jboss.tools.common.model.ui,3.2.1.v20111025-0439-H174-Final,"org.jboss.tools.common.model.ui",1435851862272
+activated,view,org.eclipse.wst.server.ui,1.1.207.v20110119,"org.eclipse.wst.server.ui.ServersView",1435851950262
+started,bundle,org.eclipse.debug.ui,3.6.3.v20101201_r362,"org.eclipse.debug.ui",1435851953732
+executed,command,org.eclipse.wst.server.ui,1.1.207.v20110119,"org.eclipse.wst.server.debug",1435851953732
+started,bundle,org.eclipse.jst.server.tomcat.ui,1.1.200.v20100418,"org.eclipse.jst.server.tomcat.ui",1435851953842
+started,bundle,org.eclipse.jdt.debug,3.6.1.v20100715_r361,"org.eclipse.jdt.debug",1435851954414
+started,bundle,org.jboss.ide.eclipse.freemarker,1.1.0.v20111025-0320-H192-Final,"org.jboss.ide.eclipse.freemarker",1435851954582
+started,bundle,org.eclipse.jdt.debug.ui,3.5.2.v20100928a_r362,"org.eclipse.jdt.debug.ui",1435851954713
+opened,view,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console.ConsoleView",1435851956326
+started,bundle,org.jboss.tools.jst.jsp,3.2.1.v20111025-0510-H215-Final,"org.jboss.tools.jst.jsp",1435851956336
+started,bundle,org.jboss.tools.common.text.ext,3.2.1.v20111025-0439-H174-Final,"org.jboss.tools.common.text.ext",1435851956346
+activated,view,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console.ConsoleView",1435851956376
+error,log,,,"Server Tomcat v7.0 Server at localhost failed to start.",1435851958822
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435851958872
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435851961436
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1435851965446
+started,bundle,org.jboss.tools.jst.web.verification,3.1.0.v20111025-0510-H215-Final,"org.jboss.tools.jst.web.verification",1435851968097
+started,bundle,org.jboss.tools.jsf.verification,3.1.0.v20111027-1258-H202-Final,"org.jboss.tools.jsf.verification",1435851968167
+error,log,,,"Core exception while retrieving the content description",1435852056379
+error,log,,,"Core exception while retrieving the content description",1435852058129
+error,log,,,"Core exception while retrieving the content description",1435852058399
+error,log,,,"Core exception while retrieving the content description",1435852058679
+error,log,,,"Core exception while retrieving the content description",1435852058909
+error,log,,,"Core exception while retrieving the content description",1435852059129
+error,log,,,"Core exception while retrieving the content description",1435852059359
+error,log,,,"Core exception while retrieving the content description",1435852059709
+error,log,,,"Core exception while retrieving the content description",1435852062289
+started,bundle,org.jboss.tools.jst.web.tiles,3.1.0.v20111025-0510-H215-Final,"org.jboss.tools.jst.web.tiles",1435852062479
+started,bundle,org.jboss.tools.hibernate.xml,3.4.0.v20111025-0625-H210-Final,"org.jboss.tools.hibernate.xml",1435852062479
+started,bundle,org.jboss.tools.seam.xml,3.2.0.v20111027-1359-H303-Final,"org.jboss.tools.seam.xml",1435852062489
+started,bundle,org.jboss.tools.seam.pages.xml,3.1.0.v20111027-1359-H303-Final,"org.jboss.tools.seam.pages.xml",1435852062489
+started,bundle,org.jboss.tools.cdi.xml,1.0.0.v20111025-1225-H178-Final,"org.jboss.tools.cdi.xml",1435852062499
+started,bundle,org.jboss.tools.esb.core,1.4.0.v20111111-0222-H200-Final,"org.jboss.tools.esb.core",1435852062499
+started,bundle,org.eclipse.compare,3.5.101.R36x_v20100929-0800,"org.eclipse.compare",1435852062779
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852068319
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852070429
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.delete",1435852070449
+error,log,,,"Core exception while retrieving the content description",1435852076149
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852078399
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852095699
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.delete",1435852095719
+error,log,,,"Core exception while retrieving the content description",1435852104279
+error,log,,,"Core exception while retrieving the content description",1435852106729
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852107759
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852114949
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.delete",1435852114969
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852123759
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852130669
+error,log,,,"Core exception while retrieving the content description",1435852132199
+error,log,,,"Core exception while retrieving the content description",1435852132919
+error,log,,,"Core exception while retrieving the content description",1435852133139
+error,log,,,"Core exception while retrieving the content description",1435852133389
+error,log,,,"Core exception while retrieving the content description",1435852133609
+error,log,,,"Core exception while retrieving the content description",1435852133889
+error,log,,,"Core exception while retrieving the content description",1435852134159
+error,log,,,"Core exception while retrieving the content description",1435852134459
+error,log,,,"Core exception while retrieving the content description",1435852135869
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852137859
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852141789
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852141969
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852143289
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852143609
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852144529
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852144589
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852145829
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852145989
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852147629
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852147649
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852152489
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1435852152509
+activated,view,org.eclipse.wst.server.ui,1.1.207.v20110119,"org.eclipse.wst.server.ui.ServersView",1435852178692
+executed,command,org.eclipse.wst.server.ui,1.1.207.v20110119,"org.eclipse.wst.server.run",1435852182492
+activated,view,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console.ConsoleView",1435852183243
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1435852191069
+started,bundle,org.eclipse.wst.ws.service.policy.ui,1.0.202.v201004211732,"org.eclipse.wst.ws.service.policy.ui",1435852193979
+started,bundle,org.eclipse.wst.ws.service.policy,1.0.204.v201011011834,"org.eclipse.wst.ws.service.policy",1435852193989
+started,bundle,org.eclipse.wst.command.env,1.0.409.v201004211805,"org.eclipse.wst.command.env",1435852193999
+started,bundle,org.eclipse.wst.ws,1.1.203.v201004211805,"org.eclipse.wst.ws",1435852193999
+started,bundle,org.eclipse.jst.server.generic.core,1.0.606.v20100512,"org.eclipse.jst.server.generic.core",1435852198539
+executed,command,org.eclipse.wst.server.ui,1.1.207.v20110119,"org.eclipse.wst.server.launchShortcut.run",1435852198559
+started,bundle,org.eclipse.jst.server.preview.adapter,1.1.100.v20100308,"org.eclipse.jst.server.preview.adapter",1435852198569
+started,bundle,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser",1435852198579
+opened,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1435852198999
+activated,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1435852199069
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1435852210076
+activated,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1435852212776
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852228363
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852237373
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1435852283774
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852294574
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852297126
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.delete",1435852297136
+error,log,,,"Task failed",1435852298560
+error,log,,,"Could not delete C:/Users/SAMSUNG/workspace1/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/FRWS/WEB-INF/lib/aopalliance-repackaged-2.4.0-b12.jar. May be locked by another process.",1435852298632
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852298692
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852312028
+activated,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1435852320048
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1435852328062
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852330972
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852333112
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.delete",1435852333132
+error,log,,,"Publishing failed with multiple errors",1435852334804
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852334854
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852336934
+activated,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1435852347805
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1435852364613
+activated,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1435852372373
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1435852373633
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852378153
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852380373
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.delete",1435852380383
+error,log,,,"Publishing failed with multiple errors",1435852382067
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852382128
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852383909
+activated,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1435852389860
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1435852416113
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852423163
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852425113
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.delete",1435852425113
+error,log,,,"Publishing failed with multiple errors",1435852426735
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852426775
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852428515
+activated,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1435852447806
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1435852462329
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852465429
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852467369
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.delete",1435852467389
+error,log,,,"Publishing failed with multiple errors",1435852468949
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852468979
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852472600
+activated,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1435852482490
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1435852491244
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852504174
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852505984
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.delete",1435852505994
+error,log,,,"Publishing failed with multiple errors",1435852507604
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852507624
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852510104
+activated,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1435852522405
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1435852536779
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852539359
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852541259
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.delete",1435852541269
+error,log,,,"Publishing failed with multiple errors",1435852542831
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852542861
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852544702
+activated,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1435852549222
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1435852558285
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852564565
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852566615
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.delete",1435852566635
+error,log,,,"Publishing failed with multiple errors",1435852568175
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852568222
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852569789
+activated,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1435852581141
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1435852587443
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852591523
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852593673
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.delete",1435852593683
+error,log,,,"Publishing failed with multiple errors",1435852595245
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852595275
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852597025
+activated,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1435852601195
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1435852633015
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852637395
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852653455
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.delete",1435852653465
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852687265
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852689015
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.delete",1435852689025
+error,log,,,"Publishing failed with multiple errors",1435852690395
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852690425
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852692555
+activated,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1435852718665
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1435852723356
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852732096
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852738996
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.delete",1435852739016
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852745996
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852747696
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.delete",1435852747706
+activated,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1435852752946
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852792088
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852801118
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1435852802508
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1435852806118
+activated,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1435852811922
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852850634
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852906514
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1435852906534
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1435852909474
+activated,view,org.eclipse.wst.server.ui,1.1.207.v20110119,"org.eclipse.wst.server.ui.ServersView",1435852916922
+activated,view,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console.ConsoleView",1435852917653
+activated,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1435852924885
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1435852966977
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1435852972897
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1435852981637
+started,bundle,org.drools.eclipse,5.2.1.Final,"org.drools.eclipse",1435852986917
+error,log,,,"Several ports (8005, 8080, 8009) required by Tomcat v7.0 Server at localhost are already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).",1435852996587
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435852996617
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435853046767
+error,log,,,"Several ports (8005, 8080, 8009) required by Tomcat v7.0 Server at localhost are already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).",1435853064867
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435853064897
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1435853067487
+activated,view,org.eclipse.wst.server.ui,1.1.207.v20110119,"org.eclipse.wst.server.ui.ServersView",1435853071317
+executed,command,org.eclipse.wst.server.ui,1.1.207.v20110119,"org.eclipse.wst.server.debug",1435853075167
+activated,view,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console.ConsoleView",1435853075948
+activated,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1435853085248
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1435853106659
+activated,editor,org.eclipse.ui.browser,3.3.1.r36_20101216,"org.eclipse.ui.browser.editor",1435853125199

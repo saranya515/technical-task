@@ -1,0 +1,13 @@
+package com.ex;
+
+import org.apache.log4j.BasicConfigurator;
+import org.apache.log4j.Logger;
+
+public class Exam {
+static final Logger logger = Logger.getLogger(Exam.class);
+public static void main(String arg[])
+{
+	BasicConfigurator.configure();
+	logger.debug("this is debugg");
+}
+}
